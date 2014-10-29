@@ -258,7 +258,7 @@ h1 {
     width: 100%;
     padding: 100px 0;
     color: #fff;
-    background: url(../img/all-stars.jpg) no-repeat center center scroll;
+    background: url(../img/all-stars.jpg) no-repeat center left scroll;
     background-color: #000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
