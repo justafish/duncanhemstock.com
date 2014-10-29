@@ -1,9 +1,3 @@
-/*!
- * Start Bootstrap - Grayscale Bootstrap Theme (http://startbootstrap.com)
- * Code licensed under the Apache License v2.0.
- * For details, see http://www.apache.org/licenses/LICENSE-2.0.
- */
-
 body {
     width: 100%;
     height: 100%;
@@ -262,9 +256,9 @@ h1 {
 
 .allstars-section {
     width: 100%;
-    padding: 350px 0 0 0;
+    padding: 100px 0;
     color: #fff;
-    background: url(../img/all-stars.jpg) no-repeat top center scroll;
+    background: url(../img/all-stars.jpg) no-repeat center center scroll;
     background-color: #000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -278,7 +272,8 @@ h1 {
     }
 
     .allstars-section {
-        padding: 100px 0;
+        padding: 350px 0 0 0;
+        background-position: top center;
     }
 }
 
